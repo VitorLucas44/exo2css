@@ -9,3 +9,6 @@ tr:nth-child(odd){
 tr:nth-child(0n+9){
     color: blue;
 }
+td:first-child::first-letter{
+    font-size: 40px;
+}
